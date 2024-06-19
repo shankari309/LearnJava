@@ -1,0 +1,10 @@
+Operators are symbols that perform operation on variables and values.
+5 types 
+    1.Arithmetic
+    2.Assignment
+    3.Logical
+    4.Relational
+    5.Bitwise
+      Unary
+      
+       
