@@ -1,0 +1,31 @@
+Methods - collection of instruction that performs a certain task
+- block of code - provides reusability and readability
+Method has 6 components to declare
+
+eg : public void oddEven(int n) ---> method header{
+    method body
+}
+
+Access modifier - public, private, protected, default
+Return data type - void , primitive datatype, object, collection 
+method name - functionality of the method
+parameter list - input to be given to the method 
+method signature - method name, parameter list 
+
+Types :
+
+pre-defined - buit-in methods (length(), equals())
+user defined
+
+Static method:
+keyword - static
+Does not requires the object to be created
+Able to access instance variable of the class
+Eg public static void methodName()
+
+Instance method - usually non static method It is necessary to create an object
+- 2 types 
+Accessor Method --> getter method
+Mutator Method ---> setter method
+
+Abstract method --> abstract class has abstract method uses abstract keyword.

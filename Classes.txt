@@ -1,0 +1,13 @@
+Object : An Entity that has state and behaviour
+Class is an blueprint of the object
+Object is a physical and logical entity 
+class is a logical entity
+Class contains
+Fields, methods, constructors, blocks and nested class and interface
+
+Instance Variable:
+A variable created inside the class but outside all methods
+Space is located in run time and not in compile time
+
+New Keyword:
+Used to allocate memory in runtime.
