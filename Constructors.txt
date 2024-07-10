@@ -1,0 +1,19 @@
+Constructor is a block of code similar to the method
+It is called when the instance of the class is created 
+It allocates space for the opject in the memory
+Two types :
+No args
+Constructors with parameters
+Constructor overloading is possible with differnt types and number of parameters 
+If no constructor is created the compiler will create default constructor
+
+Rules : 
+Classname = Constructor name
+No return type 
+Cannot be abstract, static, final, synchronized
+
+Java copy constructor 
+
+By constructor
+By assigning the values of one object in to another
+By clone() method of Object class
