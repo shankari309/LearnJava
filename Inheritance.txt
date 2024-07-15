@@ -1,0 +1,13 @@
+Inheritance - Mechsnism in which one class is derived from another class
+
+Parent class / Super Class - Class from which the child class inherit the state snd behavior
+
+Child class/ Derived Class - Class which inherit the properties of the psrent class 
+
+IS A Inheritance - Programmer(Child Class) is a Employee (Parent class)
+
+Type - Single - A parent has one child
+Mulitlevel - Grandfather - Father - Son 
+Hierarchical - A parent can have more than one child 
+
+Multiple and Hybrid are implemnted through interface to svoid complexity
