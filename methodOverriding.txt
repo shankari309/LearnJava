@@ -1,0 +1,12 @@
+Method Overriding - Subclass having same method 
+Rules: 
+ IS - A Inheritence
+ same parameters and same name should be followed
+
+Static method cannot be overrided 
+(Main method also cannot be overrided since it is static)
+Because static is bound with class
+instance method is bound with an object
+
+Static belongs to class area
+instance belongs to heap area
