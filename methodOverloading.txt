@@ -1,0 +1,15 @@
+Method Overloading - Same method name but different number of parameters or 
+different datatype of arguments
+But no change in return type 
+If return type is changed you get compile time error
+main() method can be overloaded but the one with string[] args gets ececuted 
+
+Method Overloading and type promotion
+ One type is promoted to other if no matching type is found.
+
+ Byte -- promoted to short, int, long, float, double
+ Char -- int, long, float, double
+ int -- long, float, double
+ long --  float, double
+ float -- double
+ 
