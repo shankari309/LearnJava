@@ -1,0 +1,5 @@
+The super keyword is a reference variable which is used to refer immediate parent class
+usage:
+ refer parent class instance
+ invoke parent class method
+super() invoke immediate parent class constuctor
